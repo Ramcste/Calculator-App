@@ -1,0 +1,12 @@
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.exe.config
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.exe
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.pdb
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.csprojResolveAssemblyReference.cache
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.Form1.resources
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.Properties.Resources.resources
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.csproj.GenerateResource.Cache
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.exe
+H:\Workspace\Visual Studio 2013\Projects\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.pdb
